@@ -6,7 +6,7 @@ subtitle: Nhu Y Ngoc Nguyen
 
 profile:
   align: right
-  image: tofu_profile.jpg
+  image: tofu_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: 
 

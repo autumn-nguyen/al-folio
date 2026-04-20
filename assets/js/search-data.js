@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "dropdown-bookshelf",
+  },{id: "nav-more",
+          title: "more",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/more/";
+          },
+        },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
@@ -458,11 +465,25 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/al-folio/teachings/introduction-to-machine-learning/";
             },},{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/autumnyngocnguyen", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=x5kqQLsAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/autumn-nguyen", "_blank");
         },
       },{
       id: 'light-theme',

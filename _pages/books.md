@@ -7,7 +7,9 @@ nav: false
 
 Always love book discussions. Some favorites:
 
-Cửa hàng tiện lợi bất tiện
+Life of Pi 
+
+Cửa hàng tiện lợi bất tiện (불편한 편의점)
 
 The Healing Season of Pottery
 
